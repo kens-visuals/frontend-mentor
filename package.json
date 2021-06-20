@@ -1,0 +1,22 @@
+{
+  "name": "frontend-mentor",
+  "version": "1.0.0",
+  "description": "Frontend Mentor Challange Solutions",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass 3-column-preview-card-component-main/sass/main.scss 3-column-preview-card-component-main/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kens-visuals/frontend-mentor.git"
+  },
+  "author": "kens_visuals",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kens-visuals/frontend-mentor/issues"
+  },
+  "homepage": "https://github.com/kens-visuals/frontend-mentor#readme",
+  "dependencies": {
+    "node-sass": "^6.0.0"
+  }
+}
