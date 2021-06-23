@@ -11,8 +11,8 @@ html {
 body {
   width: 100%;
   height: 100vh;
-  background-color: #f2f2f2;
   color: rgba(255, 255, 255, 0.75);
+  background-color: #f2f2f2;
   font-family: "Big Shoulders Display", cursive; }
 
 .container {
@@ -27,7 +27,6 @@ body {
   height: 50rem;
   width: 70%;
   border-radius: 1rem;
-  background-color: red;
   overflow: hidden;
   display: grid;
   grid-template-columns: repeat(3, 1fr); }
@@ -35,21 +34,17 @@ body {
     padding-bottom: 4rem; }
   .col__heading {
     font-size: 4rem;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+    color: #f2f2f2; }
   .col__text {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
+    font-weight: lighter;
     font-family: "Lexend Deca", sans-serif;
     margin-top: 2rem;
-    width: 90%;
-    line-height: 2.5rem; }
-  .col__btn {
-    border: none;
-    padding: 1.5rem 4rem;
-    border-radius: 50px;
-    margin-top: 9rem;
-    background-color: #f2f2f2;
-    border: 3px solid transparent;
-    transition: all 0.2s; }
+    width: 100%;
+    line-height: 2.5rem;
+    color: rgba(255, 255, 255, 0.75); }
   .col--1 {
     grid-column: 1 / 2;
     padding: 5rem;
@@ -62,3 +57,50 @@ body {
     grid-column: 3 / -1;
     padding: 5rem;
     background-color: #004241; }
+
+.btn {
+  border: none;
+  padding: 1.5rem 4rem;
+  border-radius: 50px;
+  margin-top: 7rem;
+  border: 3px solid transparent;
+  background-color: #f2f2f2;
+  font-size: 1.6rem;
+  display: inline-block;
+  font-family: "Lexend Deca", sans-serif;
+  text-decoration: none;
+  transition: all 0.2s; }
+  .btn:hover {
+    border: 3px solid #f2f2f2;
+    background-color: transparent;
+    color: #f2f2f2;
+    text-decoration: none;
+    cursor: pointer; }
+
+.orange {
+  font-weight: 500;
+  color: #e38826; }
+
+.cyan {
+  font-weight: 500;
+  color: #006970; }
+
+.dark-cyan {
+  font-weight: 500;
+  color: #004241; }
+
+.attribution {
+  display: block;
+  color: #004241;
+  position: absolute;
+  bottom: 1rem;
+  font-size: 1.2rem; }
+  .attribution a {
+    color: #e38826;
+    transition: all 0.2s; }
+    .attribution a:hover {
+      color: #006970; }
+
+@media only screen and (max-width: 375px) {
+  body {
+    background: green; } }
