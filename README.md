@@ -9,6 +9,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | [Order Summary Component](#order-summary-component)               |
 | [3 Column Preview Card Component](#column-preview-card-component) |
 | [Profile Card Component](#profile-card-component)                 |
+| [FAQ Accordion Card](#faq-accordion-card)                         |
 
 ## Order Summary Component
 
@@ -33,3 +34,11 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/profile-card-component/](https://kens-visuals.github.io/profile-card-component/)
 - Repository URL: [https://github.com/kens-visuals/profile-card-component](https://github.com/kens-visuals/profile-card-component)
 - Solution URL: [https://www.frontendmentor.io/solutions/simple-profile-card-component-built-with-scss-HwtVCsqjH](https://www.frontendmentor.io/solutions/simple-profile-card-component-built-with-scss-HwtVCsqjH)
+
+## FAQ Accordion Card
+
+![screenshot](./screenshots/faq-accordion-card.png)
+
+- Live Site URL: [https://kens-visuals.github.io/faq-accordion-card/](https://kens-visuals.github.io/faq-accordion-card/)
+- Repository URL: [https://github.com/kens-visuals/faq-accordion-card](https://github.com/kens-visuals/faq-accordion-card)
+- Solution URL: [https://www.frontendmentor.io/solutions/faq-accordion-card-in-pure-html-and-scss-9OePi0oj-](https://www.frontendmentor.io/solutions/faq-accordion-card-in-pure-html-and-scss-9OePi0oj-)
