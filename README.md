@@ -10,6 +10,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | [3 Column Preview Card Component](#column-preview-card-component) |
 | [Profile Card Component](#profile-card-component)                 |
 | [FAQ Accordion Card](#faq-accordion-card)                         |
+| [Stats Preview Card Component](#stats-preview-card-component)     |
 
 ## Order Summary Component
 
