@@ -42,3 +42,11 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/faq-accordion-card/](https://kens-visuals.github.io/faq-accordion-card/)
 - Repository URL: [https://github.com/kens-visuals/faq-accordion-card](https://github.com/kens-visuals/faq-accordion-card)
 - Solution URL: [https://www.frontendmentor.io/solutions/faq-accordion-card-in-pure-html-and-scss-9OePi0oj-](https://www.frontendmentor.io/solutions/faq-accordion-card-in-pure-html-and-scss-9OePi0oj-)
+
+## Stats Preview Card Component
+
+![screenshot](./screenshots/stats-preview-screenshot.png)
+
+- Live Site URL: - Live Site URL: [https://kens-visuals.github.io/stats-preview/](https://kens-visuals.github.io/stats-preview/)
+- Repository URL: [https://github.com/kens-visuals/stats-preview](https://github.com/kens-visuals/stats-preview)
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-card-component-using-bem-and-scss-Xoknc8IAa](https://www.frontendmentor.io/solutions/stats-card-component-using-bem-and-scss-Xoknc8IAa)
