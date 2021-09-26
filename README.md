@@ -11,6 +11,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | [Profile Card Component](#profile-card-component)                 |
 | [FAQ Accordion Card](#faq-accordion-card)                         |
 | [Stats Preview Card Component](#stats-preview-card-component)     |
+| [Social Proof Section](#social-proof-section)                     |
 
 ## Order Summary Component
 
@@ -51,3 +52,11 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/stats-preview/](https://kens-visuals.github.io/stats-preview/)
 - Repository URL: [https://github.com/kens-visuals/stats-preview](https://github.com/kens-visuals/stats-preview)
 - Solution URL: [https://www.frontendmentor.io/solutions/stats-card-component-using-bem-and-scss-Xoknc8IAa](https://www.frontendmentor.io/solutions/stats-card-component-using-bem-and-scss-Xoknc8IAa)
+
+## Social Proof Section
+
+![screenshot](./screenshots/social-proof-section-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/social-proof-section/](https://kens-visuals.github.io/social-proof-section/)
+- Repository URL: [https://github.com/kens-visuals/social-proof-section](https://github.com/kens-visuals/social-proof-section)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-proof-section-with-css-grid-flexbox-bem-and-scss-h-SsLpwkF](https://www.frontendmentor.io/solutions/social-proof-section-with-css-grid-flexbox-bem-and-scss-h-SsLpwkF)
