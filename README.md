@@ -12,6 +12,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | [FAQ Accordion Card](#faq-accordion-card)                         |
 | [Stats Preview Card Component](#stats-preview-card-component)     |
 | [Social Proof Section](#social-proof-section)                     |
+| [Article Preview Component](#article-preview-component)           |
 
 ## Order Summary Component
 
@@ -60,3 +61,11 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/social-proof-section/](https://kens-visuals.github.io/social-proof-section/)
 - Repository URL: [https://github.com/kens-visuals/social-proof-section](https://github.com/kens-visuals/social-proof-section)
 - Solution URL: [https://www.frontendmentor.io/solutions/social-proof-section-with-css-grid-flexbox-bem-and-scss-h-SsLpwkF](https://www.frontendmentor.io/solutions/social-proof-section-with-css-grid-flexbox-bem-and-scss-h-SsLpwkF)
+
+## Article Preview Component
+
+![screenshot](./screenshots/article-preview-component-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/article-preview-component/#](https://kens-visuals.github.io/article-preview-component/#)
+- Repository URL: [https://github.com/kens-visuals/article-preview-component](https://github.com/kens-visuals/article-preview-component)
+- Solution URL: [https://www.frontendmentor.io/solutions/article-preview-comp-with-bem-sass-and-vanilla-js-vtLeoLZH4](https://www.frontendmentor.io/solutions/article-preview-comp-with-bem-sass-and-vanilla-js-vtLeoLZH4)
