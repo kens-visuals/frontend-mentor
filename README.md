@@ -73,7 +73,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 
 ## Four Card Feature Section
 
-![screenshot](./screenshots/four-card-feature-section.png)
+![screenshot](./screenshots/four-card-feature-section-screenshot.png)
 
 - Live Site URL: [https://kens-visuals.github.io/four-card-feature-section/](https://kens-visuals.github.io/four-card-feature-section/)
 - Repository URL: [https://github.com/kens-visuals/four-card-feature-section](https://github.com/kens-visuals/four-card-feature-section)
