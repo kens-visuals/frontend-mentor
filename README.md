@@ -14,6 +14,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | [Social Proof Section](#social-proof-section)                     |
 | [Article Preview Component](#article-preview-component)           |
 | [Four Card Feature Section](#four-card-feature-section)           |
+| [Base Apparel Coming Soon](#base-apparel-coming-soon)             |
 
 ## Order Summary Component
 
@@ -78,3 +79,11 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/four-card-feature-section/](https://kens-visuals.github.io/four-card-feature-section/)
 - Repository URL: [https://github.com/kens-visuals/four-card-feature-section](https://github.com/kens-visuals/four-card-feature-section)
 - Solution URL: [https://www.frontendmentor.io/solutions/four-card-feature-section-with-bem-and-scss-YfhlZvokE](https://www.frontendmentor.io/solutions/four-card-feature-section-with-bem-and-scss-YfhlZvokE)
+
+## Base Apparel Coming Soon
+
+![screenshot](./screenshots/base-apparel-coming-soon-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/base-apparel-coming-soon/](https://kens-visuals.github.io/base-apparel-coming-soon/)
+- Repository URL: [https://github.com/kens-visuals/base-apparel-coming-soon](https://github.com/kens-visuals/base-apparel-coming-soon)
+- Solution URL: [https://www.frontendmentor.io/solutions/base-apparel-coming-soon-with-vanilla-js-scss-and-bem-mbo9r7UHp](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-with-vanilla-js-scss-and-bem-mbo9r7UHp)
