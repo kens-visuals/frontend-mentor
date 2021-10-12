@@ -4,17 +4,18 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 
 > Programming is like any other sport. You might know the rules, but you have to play to learn. -- Mark Zuckerberg
 
-| Table of Contents                                                 |
-| ----------------------------------------------------------------- |
-| [Order Summary Component](#order-summary-component)               |
-| [3 Column Preview Card Component](#column-preview-card-component) |
-| [Profile Card Component](#profile-card-component)                 |
-| [FAQ Accordion Card](#faq-accordion-card)                         |
-| [Stats Preview Card Component](#stats-preview-card-component)     |
-| [Social Proof Section](#social-proof-section)                     |
-| [Article Preview Component](#article-preview-component)           |
-| [Four Card Feature Section](#four-card-feature-section)           |
-| [Base Apparel Coming Soon](#base-apparel-coming-soon)             |
+| Table of Contents                                                     |
+| --------------------------------------------------------------------- |
+| [Order Summary Component](#order-summary-component)                   |
+| [3 Column Preview Card Component](#column-preview-card-component)     |
+| [Profile Card Component](#profile-card-component)                     |
+| [FAQ Accordion Card](#faq-accordion-card)                             |
+| [Stats Preview Card Component](#stats-preview-card-component)         |
+| [Social Proof Section](#social-proof-section)                         |
+| [Article Preview Component](#article-preview-component)               |
+| [Four Card Feature Section](#four-card-feature-section)               |
+| [Base Apparel Coming Soon](#base-apparel-coming-soon)                 |
+| [Intro Component With Signup Form](#intro-component-with-signup-form) |
 
 ## Order Summary Component
 
@@ -87,3 +88,11 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/base-apparel-coming-soon/](https://kens-visuals.github.io/base-apparel-coming-soon/)
 - Repository URL: [https://github.com/kens-visuals/base-apparel-coming-soon](https://github.com/kens-visuals/base-apparel-coming-soon)
 - Solution URL: [https://www.frontendmentor.io/solutions/base-apparel-coming-soon-with-vanilla-js-scss-and-bem-mbo9r7UHp](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-with-vanilla-js-scss-and-bem-mbo9r7UHp)
+
+## Intro Component With Signup Form
+
+![screenshot](./screenshots/intro-component-with-signup-form-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/intro-component-with-signup-form/](https://kens-visuals.github.io/intro-component-with-signup-form/)
+- Repository URL: [https://github.com/kens-visuals/intro-component-with-signup-form](https://github.com/kens-visuals/intro-component-with-signup-form)
+- Solution URL: [https://www.frontendmentor.io/solutions/intro-comp-with-signup-form-built-with-scss-bem-and-vanilla-js-aIoqL7r_n](https://www.frontendmentor.io/solutions/intro-comp-with-signup-form-built-with-scss-bem-and-vanilla-js-aIoqL7r_n)
