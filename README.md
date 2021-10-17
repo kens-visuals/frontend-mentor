@@ -4,18 +4,20 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 
 > Programming is like any other sport. You might know the rules, but you have to play to learn. -- Mark Zuckerberg
 
-| Table of Contents                                                     |
-| --------------------------------------------------------------------- |
-| [Order Summary Component](#order-summary-component)                   |
-| [3 Column Preview Card Component](#column-preview-card-component)     |
-| [Profile Card Component](#profile-card-component)                     |
-| [FAQ Accordion Card](#faq-accordion-card)                             |
-| [Stats Preview Card Component](#stats-preview-card-component)         |
-| [Social Proof Section](#social-proof-section)                         |
-| [Article Preview Component](#article-preview-component)               |
-| [Four Card Feature Section](#four-card-feature-section)               |
-| [Base Apparel Coming Soon](#base-apparel-coming-soon)                 |
-| [Intro Component With Signup Form](#intro-component-with-signup-form) |
+| Table of Contents |                                                                       |
+| ----------------- | --------------------------------------------------------------------- |
+| JUNIOR            | [Order Summary Component](#order-summary-component)                   |
+| JUNIOR            | [3 Column Preview Card Component](#column-preview-card-component)     |
+| JUNIOR            | [Profile Card Component](#profile-card-component)                     |
+| JUNIOR            | [FAQ Accordion Card](#faq-accordion-card)                             |
+| JUNIOR            | [Stats Preview Card Component](#stats-preview-card-component)         |
+| JUNIOR            | [Social Proof Section](#social-proof-section)                         |
+| JUNIOR            | [Article Preview Component](#article-preview-component)               |
+| JUNIOR            | [Four Card Feature Section](#four-card-feature-section)               |
+| JUNIOR            | [Base Apparel Coming Soon](#base-apparel-coming-soon)                 |
+| JUNIOR            | [Intro Component With Signup Form](#intro-component-with-signup-form) |
+| JUNIOR            | [Single Price Grid Component](#single-price-grid-component)           |
+| JUNIOR            | [Ping Coming Soon Page](#ping-coming-soon-page)                       |
 
 ## Order Summary Component
 
@@ -96,3 +98,19 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/intro-component-with-signup-form/](https://kens-visuals.github.io/intro-component-with-signup-form/)
 - Repository URL: [https://github.com/kens-visuals/intro-component-with-signup-form](https://github.com/kens-visuals/intro-component-with-signup-form)
 - Solution URL: [https://www.frontendmentor.io/solutions/intro-comp-with-signup-form-built-with-scss-bem-and-vanilla-js-aIoqL7r_n](https://www.frontendmentor.io/solutions/intro-comp-with-signup-form-built-with-scss-bem-and-vanilla-js-aIoqL7r_n)
+
+## Single Price Grid Component
+
+![screenshot](./screenshots/single-price-grid-component-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/single-price-grid-component/](https://kens-visuals.github.io/single-price-grid-component/)
+- Repository URL: [https://github.com/kens-visuals/single-price-grid-component](https://github.com/kens-visuals/single-price-grid-component)
+- Solution URL: [https://www.frontendmentor.io/solutions/single-price-grid-component-with-no-media-queries-dcVj96LxV](https://www.frontendmentor.io/solutions/single-price-grid-component-with-no-media-queries-dcVj96LxV)
+
+## Ping Coming Soon Page
+
+![screenshot](./screenshots/ping-coming-soon-page-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/ping-coming-soon-page/](https://kens-visuals.github.io/ping-coming-soon-page/)
+- Repository URL: [https://github.com/kens-visuals/ping-coming-soon-page](https://github.com/kens-visuals/ping-coming-soon-page)
+- Solution URL: [https://www.frontendmentor.io/solutions/ping-coming-soon-page-with-bem-scss-and-vanilla-js-Zoi6yA_6s](https://www.frontendmentor.io/solutions/ping-coming-soon-page-with-bem-scss-and-vanilla-js-Zoi6yA_6s)
