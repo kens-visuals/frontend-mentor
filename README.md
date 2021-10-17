@@ -4,20 +4,20 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 
 > Programming is like any other sport. You might know the rules, but you have to play to learn. -- Mark Zuckerberg
 
-| Table of Contents |                                                                       |
-| ----------------- | --------------------------------------------------------------------- |
-| JUNIOR            | [Order Summary Component](#order-summary-component)                   |
-| JUNIOR            | [3 Column Preview Card Component](#column-preview-card-component)     |
-| JUNIOR            | [Profile Card Component](#profile-card-component)                     |
-| JUNIOR            | [FAQ Accordion Card](#faq-accordion-card)                             |
-| JUNIOR            | [Stats Preview Card Component](#stats-preview-card-component)         |
-| JUNIOR            | [Social Proof Section](#social-proof-section)                         |
-| JUNIOR            | [Article Preview Component](#article-preview-component)               |
-| JUNIOR            | [Four Card Feature Section](#four-card-feature-section)               |
-| JUNIOR            | [Base Apparel Coming Soon](#base-apparel-coming-soon)                 |
-| JUNIOR            | [Intro Component With Signup Form](#intro-component-with-signup-form) |
-| JUNIOR            | [Single Price Grid Component](#single-price-grid-component)           |
-| JUNIOR            | [Ping Coming Soon Page](#ping-coming-soon-page)                       |
+| Difficulty | Table of Contents                                                     |
+| ---------- | --------------------------------------------------------------------- |
+| JUNIOR     | [Order Summary Component](#order-summary-component)                   |
+| JUNIOR     | [3 Column Preview Card Component](#column-preview-card-component)     |
+| JUNIOR     | [Profile Card Component](#profile-card-component)                     |
+| JUNIOR     | [FAQ Accordion Card](#faq-accordion-card)                             |
+| JUNIOR     | [Stats Preview Card Component](#stats-preview-card-component)         |
+| JUNIOR     | [Social Proof Section](#social-proof-section)                         |
+| JUNIOR     | [Article Preview Component](#article-preview-component)               |
+| JUNIOR     | [Four Card Feature Section](#four-card-feature-section)               |
+| JUNIOR     | [Base Apparel Coming Soon](#base-apparel-coming-soon)                 |
+| JUNIOR     | [Intro Component With Signup Form](#intro-component-with-signup-form) |
+| JUNIOR     | [Single Price Grid Component](#single-price-grid-component)           |
+| JUNIOR     | [Ping Coming Soon Page](#ping-coming-soon-page)                       |
 
 ## Order Summary Component
 
