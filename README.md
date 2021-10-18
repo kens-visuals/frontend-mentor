@@ -6,19 +6,19 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 
 | Difficulty | Table of Contents                                                     |
 | ---------- | --------------------------------------------------------------------- |
-| JUNIOR     | [Order Summary Component](#order-summary-component)                   |
-| JUNIOR     | [3 Column Preview Card Component](#column-preview-card-component)     |
-| JUNIOR     | [Profile Card Component](#profile-card-component)                     |
-| JUNIOR     | [FAQ Accordion Card](#faq-accordion-card)                             |
-| JUNIOR     | [Stats Preview Card Component](#stats-preview-card-component)         |
-| JUNIOR     | [Social Proof Section](#social-proof-section)                         |
-| JUNIOR     | [Article Preview Component](#article-preview-component)               |
-| JUNIOR     | [Four Card Feature Section](#four-card-feature-section)               |
-| JUNIOR     | [Base Apparel Coming Soon](#base-apparel-coming-soon)                 |
-| JUNIOR     | [Intro Component With Signup Form](#intro-component-with-signup-form) |
-| JUNIOR     | [Single Price Grid Component](#single-price-grid-component)           |
-| JUNIOR     | [Ping Coming Soon Page](#ping-coming-soon-page)                       |
-| JUNIOR     | [Huddle Landing Page](#huddle-landing-page)                           |
+| NEWBIE     | [Order Summary Component](#order-summary-component)                   |
+| NEWBIE     | [3 Column Preview Card Component](#column-preview-card-component)     |
+| NEWBIE     | [Profile Card Component](#profile-card-component)                     |
+| NEWBIE     | [FAQ Accordion Card](#faq-accordion-card)                             |
+| NEWBIE     | [Stats Preview Card Component](#stats-preview-card-component)         |
+| NEWBIE     | [Social Proof Section](#social-proof-section)                         |
+| NEWBIE     | [Article Preview Component](#article-preview-component)               |
+| NEWBIE     | [Four Card Feature Section](#four-card-feature-section)               |
+| NEWBIE     | [Base Apparel Coming Soon](#base-apparel-coming-soon)                 |
+| NEWBIE     | [Intro Component With Signup Form](#intro-component-with-signup-form) |
+| NEWBIE     | [Single Price Grid Component](#single-price-grid-component)           |
+| NEWBIE     | [Ping Coming Soon Page](#ping-coming-soon-page)                       |
+| NEWBIE     | [Huddle Landing Page](#huddle-landing-page)                           |
 
 ## Order Summary Component
 
