@@ -19,6 +19,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | NEWBIE     | [Single Price Grid Component](#single-price-grid-component)           |
 | NEWBIE     | [Ping Coming Soon Page](#ping-coming-soon-page)                       |
 | NEWBIE     | [Huddle Landing Page](#huddle-landing-page)                           |
+|            |                                                                       |
 | JUNIOR     | [Time Tracking Dashboard](#time-tracking-dashboard)                   |
 
 ## Order Summary Component
