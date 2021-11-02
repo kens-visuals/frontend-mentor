@@ -19,6 +19,8 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | NEWBIE     | [Single Price Grid Component](#single-price-grid-component)           |
 | NEWBIE     | [Ping Coming Soon Page](#ping-coming-soon-page)                       |
 | NEWBIE     | [Huddle Landing Page](#huddle-landing-page)                           |
+| ---------- | --------------------------------------------------------------------- |
+| JUNIOR     | [Time Tracking Dashboard](#time-tracking-dashboard)                   |
 
 ## Order Summary Component
 
@@ -123,3 +125,11 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/huddle-landing-page/](https://kens-visuals.github.io/huddle-landing-page/)
 - Repository URL: [https://github.com/kens-visuals/huddle-landing-page#screenshot](https://github.com/kens-visuals/huddle-landing-page#screenshot)
 - Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-scss-bem-and-css-flexbox-xDNM9FSFX](https://www.frontendmentor.io/solutions/huddle-landing-page-with-scss-bem-and-css-flexbox-xDNM9FSFX)
+
+## Time Tracking Dashboard
+
+![screenshot](./screenshots/time-tracking-dashboard-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/time-tracking-dashboard/](https://kens-visuals.github.io/time-tracking-dashboard/)
+- Repository URL: [https://github.com/kens-visuals/time-tracking-dashboard](https://github.com/kens-visuals/time-tracking-dashboard)
+- Solution URL: [https://www.frontendmentor.io/solutions/time-tracking-dashboard-with-bem-scss-and-vanilla-js--5P53ADEz](https://www.frontendmentor.io/solutions/time-tracking-dashboard-with-bem-scss-and-vanilla-js--5P53ADEz)
