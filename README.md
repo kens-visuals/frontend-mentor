@@ -21,6 +21,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | NEWBIE     | [Huddle Landing Page](#huddle-landing-page)                           |
 |            |                                                                       |
 | JUNIOR     | [Time Tracking Dashboard](#time-tracking-dashboard)                   |
+| JUNIOR     | [Tip Calculator App](#tip-calculator-app)                             |
 
 ## Order Summary Component
 
@@ -133,3 +134,11 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/time-tracking-dashboard/](https://kens-visuals.github.io/time-tracking-dashboard/)
 - Repository URL: [https://github.com/kens-visuals/time-tracking-dashboard](https://github.com/kens-visuals/time-tracking-dashboard)
 - Solution URL: [https://www.frontendmentor.io/solutions/time-tracking-dashboard-with-bem-scss-and-vanilla-js--5P53ADEz](https://www.frontendmentor.io/solutions/time-tracking-dashboard-with-bem-scss-and-vanilla-js--5P53ADEz)
+
+## Tip Calculator App
+
+![screenshot](./screenshots/tip-calculator-app-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/tip-calculator-app/](https://kens-visuals.github.io/tip-calculator-app/)
+- Repository URL: [https://github.com/kens-visuals/tip-calculator-app](https://github.com/kens-visuals/tip-calculator-app)
+- Solution URL: [https://www.frontendmentor.io/solutions/splitter-tip-calculator-app-with-vanilla-js-scss-and-bem-4c6nu5szo](https://www.frontendmentor.io/solutions/splitter-tip-calculator-app-with-vanilla-js-scss-and-bem-4c6nu5szo)
