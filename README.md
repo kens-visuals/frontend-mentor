@@ -22,6 +22,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 |            |                                                                       |
 | JUNIOR     | [Time Tracking Dashboard](#time-tracking-dashboard)                   |
 | JUNIOR     | [Tip Calculator App](#tip-calculator-app)                             |
+| JUNIOR     | [Sunnyside Agency Landing Page](#sunnyside-agency-landing-page)       |
 
 ## Order Summary Component
 
@@ -142,3 +143,11 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/tip-calculator-app/](https://kens-visuals.github.io/tip-calculator-app/)
 - Repository URL: [https://github.com/kens-visuals/tip-calculator-app](https://github.com/kens-visuals/tip-calculator-app)
 - Solution URL: [https://www.frontendmentor.io/solutions/splitter-tip-calculator-app-with-vanilla-js-scss-and-bem-4c6nu5szo](https://www.frontendmentor.io/solutions/splitter-tip-calculator-app-with-vanilla-js-scss-and-bem-4c6nu5szo)
+
+## Sunnyside Agency Landing Page
+
+![screenshot](./screenshots/sunnyside-agency-landing-page-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/sunnyside-agency-landing-page/](https://kens-visuals.github.io/sunnyside-agency-landing-page/)
+- Repository URL: [https://github.com/kens-visuals/sunnyside-agency-landing-page](https://github.com/kens-visuals/sunnyside-agency-landing-page)
+- Solution URL: [https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-with-scss-bem-css-grid-and-vanilla-js-uekvq0GuT](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-with-scss-bem-css-grid-and-vanilla-js-uekvq0GuT)
