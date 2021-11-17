@@ -23,6 +23,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | JUNIOR     | [Time Tracking Dashboard](#time-tracking-dashboard)                   |
 | JUNIOR     | [Tip Calculator App](#tip-calculator-app)                             |
 | JUNIOR     | [Sunnyside Agency Landing Page](#sunnyside-agency-landing-page)       |
+| JUNIOR     | [Blogr Landing Page](#blogr-landing-page)                             |
 
 ## Order Summary Component
 
@@ -151,3 +152,11 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/sunnyside-agency-landing-page/](https://kens-visuals.github.io/sunnyside-agency-landing-page/)
 - Repository URL: [https://github.com/kens-visuals/sunnyside-agency-landing-page](https://github.com/kens-visuals/sunnyside-agency-landing-page)
 - Solution URL: [https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-with-scss-bem-css-grid-and-vanilla-js-uekvq0GuT](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-with-scss-bem-css-grid-and-vanilla-js-uekvq0GuT)
+
+## Blogr Landing Page
+
+![screenshot](./screenshots/blogr-landing-page-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/blogr-landing-page/](https://kens-visuals.github.io/blogr-landing-page/)
+- Repository URL: [https://github.com/kens-visuals/blogr-landing-page](https://github.com/kens-visuals/blogr-landing-page)
+- Solution URL: [https://www.frontendmentor.io/solutions/blogr-landin-page-with-scss-bem-and-vanilla-js-qyv7Cq02-](https://www.frontendmentor.io/solutions/blogr-landin-page-with-scss-bem-and-vanilla-js-qyv7Cq02-)
