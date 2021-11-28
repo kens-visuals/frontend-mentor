@@ -24,6 +24,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | JUNIOR     | [Tip Calculator App](#tip-calculator-app)                             |
 | JUNIOR     | [Sunnyside Agency Landing Page](#sunnyside-agency-landing-page)       |
 | JUNIOR     | [Blogr Landing Page](#blogr-landing-page)                             |
+| JUNIOR     | [Crowdfunding Product Page](#crowdfunding-product-page)               |
 
 ## Order Summary Component
 
@@ -160,3 +161,11 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/blogr-landing-page/](https://kens-visuals.github.io/blogr-landing-page/)
 - Repository URL: [https://github.com/kens-visuals/blogr-landing-page](https://github.com/kens-visuals/blogr-landing-page)
 - Solution URL: [https://www.frontendmentor.io/solutions/blogr-landin-page-with-scss-bem-and-vanilla-js-qyv7Cq02-](https://www.frontendmentor.io/solutions/blogr-landin-page-with-scss-bem-and-vanilla-js-qyv7Cq02-)
+
+## Crowdfunding Product Page
+
+![screenshot](./screenshots/crowdfunding-product-page-screenshot.png)
+
+- Live Site URL: [https://kens-crowdfund.netlify.app/](https://kens-crowdfund.netlify.app/)
+- Repository URL: [https://github.com/kens-visuals/crowdfunding-product-page](https://github.com/kens-visuals/crowdfunding-product-page)
+- Solution URL: [https://www.frontendmentor.io/solutions/crowdfunding-product-page-with-vanilla-js-scss-and-bem-TWbk3JbR1](https://www.frontendmentor.io/solutions/crowdfunding-product-page-with-vanilla-js-scss-and-bem-TWbk3JbR1)
