@@ -182,7 +182,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 
 ## Loopstudios Landing Page
 
-![screenshot](./screenshots/loopstudios-landing-page.png)
+![screenshot](./screenshots/loopstudios-landing-page-screenshot.png)
 
 - Live Site URL: [https://kens-visuals.github.io/loopstudios-landing-page/](https://kens-visuals.github.io/loopstudios-landing-page/)
 - Repository URL: [https://github.com/kens-visuals/loopstudios-landing-page](https://github.com/kens-visuals/loopstudios-landing-page)
