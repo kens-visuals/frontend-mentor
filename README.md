@@ -26,6 +26,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | JUNIOR     | [Blogr Landing Page](#blogr-landing-page)                             |
 | JUNIOR     | [Crowdfunding Product Page](#crowdfunding-product-page)               |
 | JUNIOR     | [Interactive Pricing Component](#interactive-pricing-component)       |
+| JUNIOR     | [Loopstudios Landing Page](#loopstudios-landing-page)                 |
 
 ## Order Summary Component
 
@@ -178,3 +179,11 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/interactive-pricing-component/](https://kens-visuals.github.io/interactive-pricing-component/)
 - Repository URL: [https://github.com/kens-visuals/interactive-pricing-component](https://github.com/kens-visuals/interactive-pricing-component)
 - Solution URL: [https://www.frontendmentor.io/solutions/interactive-pricing-component-with-vanilla-js-scss-and-bem-TKxK-gb_9](https://www.frontendmentor.io/solutions/interactive-pricing-component-with-vanilla-js-scss-and-bem-TKxK-gb_9)
+
+## Loopstudios Landing Page
+
+![screenshot](./screenshots/loopstudios-landing-page.png)
+
+- Live Site URL: [https://kens-visuals.github.io/loopstudios-landing-page/](https://kens-visuals.github.io/loopstudios-landing-page/)
+- Repository URL: [https://github.com/kens-visuals/loopstudios-landing-page](https://github.com/kens-visuals/loopstudios-landing-page)
+- Solution URL: [https://www.frontendmentor.io/solutions/loopstudios-landing-page-with-vanilla-js-scss-and-bem-RUVC6Bett](https://www.frontendmentor.io/solutions/loopstudios-landing-page-with-vanilla-js-scss-and-bem-RUVC6Bett)
