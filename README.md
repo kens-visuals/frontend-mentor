@@ -27,6 +27,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | JUNIOR     | [Crowdfunding Product Page](#crowdfunding-product-page)               |
 | JUNIOR     | [Interactive Pricing Component](#interactive-pricing-component)       |
 | JUNIOR     | [Loopstudios Landing Page](#loopstudios-landing-page)                 |
+| JUNIOR     | [Testimonials Grid Section](#testimonials-grid-section)               |
 
 ## Order Summary Component
 
@@ -187,3 +188,11 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/loopstudios-landing-page/](https://kens-visuals.github.io/loopstudios-landing-page/)
 - Repository URL: [https://github.com/kens-visuals/loopstudios-landing-page](https://github.com/kens-visuals/loopstudios-landing-page)
 - Solution URL: [https://www.frontendmentor.io/solutions/loopstudios-landing-page-with-vanilla-js-scss-and-bem-RUVC6Bett](https://www.frontendmentor.io/solutions/loopstudios-landing-page-with-vanilla-js-scss-and-bem-RUVC6Bett)
+
+## Testimonials Grid Section
+
+![screenshot](./screenshots/testimonials-grid-section-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/testimonials-grid-section/](https://kens-visuals.github.io/testimonials-grid-section/)
+- Repository URL: [https://github.com/kens-visuals/testimonials-grid-section](https://github.com/kens-visuals/testimonials-grid-section)
+- Solution URL: [https://www.frontendmentor.io/solutions/testimonials-grid-section-with-scss-bem-and-css-grid-dr2f83Qua](https://www.frontendmentor.io/solutions/testimonials-grid-section-with-scss-bem-and-css-grid-dr2f83Qua)
