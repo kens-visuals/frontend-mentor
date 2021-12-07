@@ -28,6 +28,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | JUNIOR     | [Interactive Pricing Component](#interactive-pricing-component)       |
 | JUNIOR     | [Loopstudios Landing Page](#loopstudios-landing-page)                 |
 | JUNIOR     | [Testimonials Grid Section](#testimonials-grid-section)               |
+| JUNIOR     | [Fylo Data Storage Component](#fylo-data-storage-component)           |
 
 ## Order Summary Component
 
@@ -196,3 +197,11 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/testimonials-grid-section/](https://kens-visuals.github.io/testimonials-grid-section/)
 - Repository URL: [https://github.com/kens-visuals/testimonials-grid-section](https://github.com/kens-visuals/testimonials-grid-section)
 - Solution URL: [https://www.frontendmentor.io/solutions/testimonials-grid-section-with-scss-bem-and-css-grid-dr2f83Qua](https://www.frontendmentor.io/solutions/testimonials-grid-section-with-scss-bem-and-css-grid-dr2f83Qua)
+
+## Fylo Data Storage Component
+
+![screenshot](./screenshots/fylo-data-storage-component-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/fylo-data-storage-component/](https://kens-visuals.github.io/fylo-data-storage-component/)
+- Repository URL: [https://github.com/kens-visuals/fylo-data-storage-component](https://github.com/kens-visuals/fylo-data-storage-component)
+- Solution URL: [https://www.frontendmentor.io/solutions/fylo-data-storage-component-with-css-animations-scss-and-bem-Jc1s4LmUs](https://www.frontendmentor.io/solutions/fylo-data-storage-component-with-css-animations-scss-and-bem-Jc1s4LmUs)
