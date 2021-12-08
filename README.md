@@ -4,31 +4,32 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 
 > Programming is like any other sport. You might know the rules, but you have to play to learn. -- Mark Zuckerberg
 
-| Difficulty | Table of Contents                                                     |
-| ---------- | --------------------------------------------------------------------- |
-| NEWBIE     | [Order Summary Component](#order-summary-component)                   |
-| NEWBIE     | [3 Column Preview Card Component](#column-preview-card-component)     |
-| NEWBIE     | [Profile Card Component](#profile-card-component)                     |
-| NEWBIE     | [FAQ Accordion Card](#faq-accordion-card)                             |
-| NEWBIE     | [Stats Preview Card Component](#stats-preview-card-component)         |
-| NEWBIE     | [Social Proof Section](#social-proof-section)                         |
-| NEWBIE     | [Article Preview Component](#article-preview-component)               |
-| NEWBIE     | [Four Card Feature Section](#four-card-feature-section)               |
-| NEWBIE     | [Base Apparel Coming Soon](#base-apparel-coming-soon)                 |
-| NEWBIE     | [Intro Component With Signup Form](#intro-component-with-signup-form) |
-| NEWBIE     | [Single Price Grid Component](#single-price-grid-component)           |
-| NEWBIE     | [Ping Coming Soon Page](#ping-coming-soon-page)                       |
-| NEWBIE     | [Huddle Landing Page](#huddle-landing-page)                           |
-|            |                                                                       |
-| JUNIOR     | [Time Tracking Dashboard](#time-tracking-dashboard)                   |
-| JUNIOR     | [Tip Calculator App](#tip-calculator-app)                             |
-| JUNIOR     | [Sunnyside Agency Landing Page](#sunnyside-agency-landing-page)       |
-| JUNIOR     | [Blogr Landing Page](#blogr-landing-page)                             |
-| JUNIOR     | [Crowdfunding Product Page](#crowdfunding-product-page)               |
-| JUNIOR     | [Interactive Pricing Component](#interactive-pricing-component)       |
-| JUNIOR     | [Loopstudios Landing Page](#loopstudios-landing-page)                 |
-| JUNIOR     | [Testimonials Grid Section](#testimonials-grid-section)               |
-| JUNIOR     | [Fylo Data Storage Component](#fylo-data-storage-component)           |
+| Difficulty | Table of Contents                                                           |
+| ---------- | --------------------------------------------------------------------------- |
+| NEWBIE     | [Order Summary Component](#order-summary-component)                         |
+| NEWBIE     | [3 Column Preview Card Component](#column-preview-card-component)           |
+| NEWBIE     | [Profile Card Component](#profile-card-component)                           |
+| NEWBIE     | [FAQ Accordion Card](#faq-accordion-card)                                   |
+| NEWBIE     | [Stats Preview Card Component](#stats-preview-card-component)               |
+| NEWBIE     | [Social Proof Section](#social-proof-section)                               |
+| NEWBIE     | [Article Preview Component](#article-preview-component)                     |
+| NEWBIE     | [Four Card Feature Section](#four-card-feature-section)                     |
+| NEWBIE     | [Base Apparel Coming Soon](#base-apparel-coming-soon)                       |
+| NEWBIE     | [Intro Component With Signup Form](#intro-component-with-signup-form)       |
+| NEWBIE     | [Single Price Grid Component](#single-price-grid-component)                 |
+| NEWBIE     | [Ping Coming Soon Page](#ping-coming-soon-page)                             |
+| NEWBIE     | [Huddle Landing Page](#huddle-landing-page)                                 |
+|            |                                                                             |
+| JUNIOR     | [Time Tracking Dashboard](#time-tracking-dashboard)                         |
+| JUNIOR     | [Tip Calculator App](#tip-calculator-app)                                   |
+| JUNIOR     | [Sunnyside Agency Landing Page](#sunnyside-agency-landing-page)             |
+| JUNIOR     | [Blogr Landing Page](#blogr-landing-page)                                   |
+| JUNIOR     | [Crowdfunding Product Page](#crowdfunding-product-page)                     |
+| JUNIOR     | [Interactive Pricing Component](#interactive-pricing-component)             |
+| JUNIOR     | [Loopstudios Landing Page](#loopstudios-landing-page)                       |
+| JUNIOR     | [Testimonials Grid Section](#testimonials-grid-section)                     |
+| JUNIOR     | [Fylo Data Storage Component](#fylo-data-storage-component)                 |
+| JUNIOR     | [Coding Bootcamp Testimonials Slider](#coding-bootcamp-testimonials-slider) |
 
 ## Order Summary Component
 
@@ -205,3 +206,11 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/fylo-data-storage-component/](https://kens-visuals.github.io/fylo-data-storage-component/)
 - Repository URL: [https://github.com/kens-visuals/fylo-data-storage-component](https://github.com/kens-visuals/fylo-data-storage-component)
 - Solution URL: [https://www.frontendmentor.io/solutions/fylo-data-storage-component-with-css-animations-scss-and-bem-Jc1s4LmUs](https://www.frontendmentor.io/solutions/fylo-data-storage-component-with-css-animations-scss-and-bem-Jc1s4LmUs)
+
+## Coding Bootcamp Testimonials Slider
+
+![screenshot](./screenshots/coding-bootcamp-testimonials-slider-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/coding-bootcamp-testimonials-slider/](https://kens-visuals.github.io/coding-bootcamp-testimonials-slider/)
+- Repository URL: [https://github.com/kens-visuals/coding-bootcamp-testimonials-slider](https://github.com/kens-visuals/coding-bootcamp-testimonials-slider)
+- Solution URL: [https://www.frontendmentor.io/solutions/coding-bootcamp-testimonials-slider-with-vanilla-js-scss-and-bem-pHSco0Ue0](https://www.frontendmentor.io/solutions/coding-bootcamp-testimonials-slider-with-vanilla-js-scss-and-bem-pHSco0Ue0)
