@@ -33,6 +33,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | JUNIOR     | [Social Media Dashboard with Theme Switcher](#social-media-dashboard-with-theme-switcher) |
 | JUNIOR     | [Insure Landing Page](#insure-landing-page)                                               |
 | JUNIOR     | [Pricing Component with Toggle](#pricing-component-with-toggle)                           |
+| JUNIOR     | [Project Tracking Intro Component](#project-tracking-intro-component)                     |
 
 ## Order Summary Component
 
@@ -241,3 +242,11 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/pricing-component-with-toggle/](https://kens-visuals.github.io/pricing-component-with-toggle/)
 - Repository URL: [https://github.com/kens-visuals/pricing-component-with-toggle](https://github.com/kens-visuals/pricing-component-with-toggle)
 - Solution URL: [https://www.frontendmentor.io/solutions/pricing-component-with-toggle-with-vanilla-js-scss-and-bem-ylbwbfjvO](https://www.frontendmentor.io/solutions/pricing-component-with-toggle-with-vanilla-js-scss-and-bem-ylbwbfjvO)
+
+## Project Tracking Intro Component
+
+![screenshot](./screenshots/project-tracking-intro-component-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/project-tracking-intro-component/](https://kens-visuals.github.io/project-tracking-intro-component/)
+- Repository URL: [https://github.com/kens-visuals/project-tracking-intro-component](https://github.com/kens-visuals/project-tracking-intro-component)
+- Solution URL: [https://www.frontendmentor.io/solutions/project-tracking-intro-component-with-scss-css-animations-and-bem-pdiPZBEWn](https://www.frontendmentor.io/solutions/project-tracking-intro-component-with-scss-css-animations-and-bem-pdiPZBEWn)
