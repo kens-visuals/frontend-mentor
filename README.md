@@ -34,6 +34,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | JUNIOR     | [Insure Landing Page](#insure-landing-page)                                               |
 | JUNIOR     | [Pricing Component with Toggle](#pricing-component-with-toggle)                           |
 | JUNIOR     | [Project Tracking Intro Component](#project-tracking-intro-component)                     |
+| JUNIOR     | [Clipboard Landing Page](#clipboard-landing-page)                                         |
 
 ## Order Summary Component
 
@@ -250,3 +251,11 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/project-tracking-intro-component/](https://kens-visuals.github.io/project-tracking-intro-component/)
 - Repository URL: [https://github.com/kens-visuals/project-tracking-intro-component](https://github.com/kens-visuals/project-tracking-intro-component)
 - Solution URL: [https://www.frontendmentor.io/solutions/project-tracking-intro-component-with-scss-css-animations-and-bem-pdiPZBEWn](https://www.frontendmentor.io/solutions/project-tracking-intro-component-with-scss-css-animations-and-bem-pdiPZBEWn)
+
+## Clipboard Landing Page
+
+![screenshot](./screenshots/clipboard-landing-page-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/clipboard-landing-page/](https://kens-visuals.github.io/clipboard-landing-page/)
+- Repository URL: [https://github.com/kens-visuals/clipboard-landing-page](https://github.com/kens-visuals/clipboard-landing-page)
+- Solution URL: [https://www.frontendmentor.io/solutions/clipboard-landing-page-with-scss-bem-and-vanilla-js-5i5L0KYqw](https://www.frontendmentor.io/solutions/clipboard-landing-page-with-scss-bem-and-vanilla-js-5i5L0KYqw)
