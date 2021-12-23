@@ -35,6 +35,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | JUNIOR     | [Pricing Component with Toggle](#pricing-component-with-toggle)                           |
 | JUNIOR     | [Project Tracking Intro Component](#project-tracking-intro-component)                     |
 | JUNIOR     | [Clipboard Landing Page](#clipboard-landing-page)                                         |
+| JUNIOR     | [Huddle Landing Page with Blocks](#huddle-landing-page-with-blocks)                       |
 
 ## Order Summary Component
 
@@ -259,3 +260,11 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/clipboard-landing-page/](https://kens-visuals.github.io/clipboard-landing-page/)
 - Repository URL: [https://github.com/kens-visuals/clipboard-landing-page](https://github.com/kens-visuals/clipboard-landing-page)
 - Solution URL: [https://www.frontendmentor.io/solutions/clipboard-landing-page-with-scss-bem-and-vanilla-js-5i5L0KYqw](https://www.frontendmentor.io/solutions/clipboard-landing-page-with-scss-bem-and-vanilla-js-5i5L0KYqw)
+
+## Huddle Landing Page with Blocks
+
+![screenshot](./screenshots/huddle-landing-page-with-blocks-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/huddle-landing-page-with-blocks/](https://kens-visuals.github.io/huddle-landing-page-with-blocks/)
+- Repository URL: [https://github.com/kens-visuals/huddle-landing-page-with-blocks](https://github.com/kens-visuals/huddle-landing-page-with-blocks)
+- Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-blocks-built-with-scss-bem-and-vanilla-js-Z6zhfo-X8](https://www.frontendmentor.io/solutions/huddle-landing-page-with-blocks-built-with-scss-bem-and-vanilla-js-Z6zhfo-X8)
