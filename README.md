@@ -36,6 +36,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | JUNIOR     | [Project Tracking Intro Component](#project-tracking-intro-component)                     |
 | JUNIOR     | [Clipboard Landing Page](#clipboard-landing-page)                                         |
 | JUNIOR     | [Huddle Landing Page with Blocks](#huddle-landing-page-with-blocks)                       |
+| JUNIOR     | [Fylo Dark Theme Landing Page](#fylo-dark-theme-landing-page)                             |
 
 ## Order Summary Component
 
@@ -268,3 +269,11 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/huddle-landing-page-with-blocks/](https://kens-visuals.github.io/huddle-landing-page-with-blocks/)
 - Repository URL: [https://github.com/kens-visuals/huddle-landing-page-with-blocks](https://github.com/kens-visuals/huddle-landing-page-with-blocks)
 - Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-blocks-built-with-scss-bem-and-vanilla-js-Z6zhfo-X8](https://www.frontendmentor.io/solutions/huddle-landing-page-with-blocks-built-with-scss-bem-and-vanilla-js-Z6zhfo-X8)
+
+## Fylo Dark Theme Landing Page
+
+![screenshot](./screenshots/fylo-dark-theme-landing-page-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/fylo-dark-theme-landing-page/](https://kens-visuals.github.io/fylo-dark-theme-landing-page/)
+- Repository URL: [https://github.com/kens-visuals/fylo-dark-theme-landing-page](https://github.com/kens-visuals/fylo-dark-theme-landing-page)
+- Solution URL: [https://www.frontendmentor.io/solutions/fylo-dark-theme-landing-page-with-vanilla-js-scss-and-bem-KaoA6v6wj](https://www.frontendmentor.io/solutions/fylo-dark-theme-landing-page-with-vanilla-js-scss-and-bem-KaoA6v6wj)
