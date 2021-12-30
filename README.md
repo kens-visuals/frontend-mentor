@@ -38,6 +38,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | JUNIOR     | [Huddle Landing Page with Blocks](#huddle-landing-page-with-blocks)                       |
 | JUNIOR     | [Fylo Dark Theme Landing Page](#fylo-dark-theme-landing-page)                             |
 | JUNIOR     | [Fylo Landing Page](#fylo-landing-page)                                                   |
+| JUNIOR     | [Huddle Landing Page with Curves](#huddle-landing-page-with-curves)                       |
 
 ## Order Summary Component
 
@@ -286,3 +287,11 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/fylo-landing-page/](https://kens-visuals.github.io/fylo-landing-page/)
 - Repository URL: [https://github.com/kens-visuals/fylo-landing-page](https://github.com/kens-visuals/fylo-landing-page)
 - Solution URL: [https://www.frontendmentor.io/solutions/fylo-landing-page-with-vanilla-js-scss-and-bem-j3_o-hMup](https://www.frontendmentor.io/solutions/fylo-landing-page-with-vanilla-js-scss-and-bem-j3_o-hMup)
+
+## Huddle Landing Page with Curves
+
+![screenshot](./screenshots/huddle-landing-page-with-curves-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/huddle-landing-page-with-curves/](https://kens-visuals.github.io/huddle-landing-page-with-curves/)
+- Repository URL: [https://github.com/kens-visuals/huddle-landing-page-with-curves](https://github.com/kens-visuals/huddle-landing-page-with-curves)
+- Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-curves-built-with-vanilla-js-scss-and-bem-AUV7QIWYs](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curves-built-with-vanilla-js-scss-and-bem-AUV7QIWYs)
