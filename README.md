@@ -45,8 +45,6 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 
 # NEWBIE
 
----
-
 ## Order Summary Component
 
 ![screenshot](./screenshots/order-summary-component-screenshot.png)
@@ -162,8 +160,6 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 ---
 
 ## JUNIOR
-
----
 
 ## Time Tracking Dashboard
 
