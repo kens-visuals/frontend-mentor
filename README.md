@@ -19,6 +19,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | NEWBIE     | [Single Price Grid Component](#single-price-grid-component)                               |
 | NEWBIE     | [Ping Coming Soon Page](#ping-coming-soon-page)                                           |
 | NEWBIE     | [Huddle Landing Page](#huddle-landing-page)                                               |
+| NEWBIE     | [QR Code Generator](#qr-code-generator)                                                   |
 |            |                                                                                           |
 | JUNIOR     | [Time Tracking Dashboard](#time-tracking-dashboard)                                       |
 | JUNIOR     | [Tip Calculator App](#tip-calculator-app)                                                 |
@@ -39,6 +40,12 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | JUNIOR     | [Fylo Dark Theme Landing Page](#fylo-dark-theme-landing-page)                             |
 | JUNIOR     | [Fylo Landing Page](#fylo-landing-page)                                                   |
 | JUNIOR     | [Huddle Landing Page with Curves](#huddle-landing-page-with-curves)                       |
+
+---
+
+# NEWBIE
+
+---
 
 ## Order Summary Component
 
@@ -143,6 +150,20 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/huddle-landing-page/](https://kens-visuals.github.io/huddle-landing-page/)
 - Repository URL: [https://github.com/kens-visuals/huddle-landing-page#screenshot](https://github.com/kens-visuals/huddle-landing-page#screenshot)
 - Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-scss-bem-and-css-flexbox-xDNM9FSFX](https://www.frontendmentor.io/solutions/huddle-landing-page-with-scss-bem-and-css-flexbox-xDNM9FSFX)
+
+## QR Code Generator
+
+![screenshot](./screenshots/qr-code-generator-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/qr-code-generator/](https://kens-visuals.github.io/qr-code-generator/)
+- Repository URL: [https://github.com/kens-visuals/qr-code-generator](https://github.com/kens-visuals/qr-code-generator)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-generator-with-react-and-material-ui-XpZA7o_Ke](https://www.frontendmentor.io/solutions/qr-code-generator-with-react-and-material-ui-XpZA7o_Ke)
+
+---
+
+## JUNIOR
+
+---
 
 ## Time Tracking Dashboard
 
