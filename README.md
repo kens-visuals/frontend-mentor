@@ -21,6 +21,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | NEWBIE     | [Huddle Landing Page](#huddle-landing-page)                                               |
 | NEWBIE     | [QR Code Generator](#qr-code-generator)                                                   |
 |            |                                                                                           |
+| JUNIOR     | [NFT Preview Card Generator](#nft-preview-card-generator)                                 |
 | JUNIOR     | [Time Tracking Dashboard](#time-tracking-dashboard)                                       |
 | JUNIOR     | [Tip Calculator App](#tip-calculator-app)                                                 |
 | JUNIOR     | [Sunnyside Agency Landing Page](#sunnyside-agency-landing-page)                           |
@@ -160,6 +161,14 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 ---
 
 ## JUNIOR
+
+## NFT Preview Card Generator
+
+![screenshot](./screenshots/nft-preview-generator-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/nft-preview-generator/](https://kens-visuals.github.io/nft-preview-generator/)
+- Repository URL: [https://github.com/kens-visuals/nft-preview-generator](https://github.com/kens-visuals/nft-preview-generator)
+- Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-generator-built-with-react-and-styledcomponents-iLzEaKy_X](https://www.frontendmentor.io/solutions/nft-preview-card-generator-built-with-react-and-styledcomponents-iLzEaKy_X)
 
 ## Time Tracking Dashboard
 
