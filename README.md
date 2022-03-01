@@ -21,6 +21,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | NEWBIE     | [Huddle Landing Page](#huddle-landing-page)                                               |
 | NEWBIE     | [QR Code Generator](#qr-code-generator)                                                   |
 |            |                                                                                           |
+| JUNIOR     | [Advice Generator App](#advice-generator-app)                                             |
 | JUNIOR     | [NFT Preview Card Generator](#nft-preview-card-generator)                                 |
 | JUNIOR     | [Time Tracking Dashboard](#time-tracking-dashboard)                                       |
 | JUNIOR     | [Tip Calculator App](#tip-calculator-app)                                                 |
@@ -161,6 +162,14 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 ---
 
 ## JUNIOR
+
+## Advice Generator App
+
+![screenshot](./screenshots/advice-generator-app-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/advice-generator-app/](https://kens-visuals.github.io/advice-generator-app/)
+- Repository URL: [https://github.com/kens-visuals/advice-generator-app](https://github.com/kens-visuals/advice-generator-app)
+- Solution URL: [https://www.frontendmentor.io/solutions/advice-generator-app-with-react-and-styled-components-CkRsCR7Q9](https://www.frontendmentor.io/solutions/advice-generator-app-with-react-and-styled-components-CkRsCR7Q9)
 
 ## NFT Preview Card Generator
 
