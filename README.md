@@ -4,44 +4,50 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 
 > Programming is like any other sport. You might know the rules, but you have to play to learn. -- Mark Zuckerberg
 
-| Difficulty | Table of Contents                                                                         |
-| ---------- | ----------------------------------------------------------------------------------------- |
-| NEWBIE     | [Order Summary Component](#order-summary-component)                                       |
-| NEWBIE     | [3 Column Preview Card Component](#column-preview-card-component)                         |
-| NEWBIE     | [Profile Card Component](#profile-card-component)                                         |
-| NEWBIE     | [FAQ Accordion Card](#faq-accordion-card)                                                 |
-| NEWBIE     | [Stats Preview Card Component](#stats-preview-card-component)                             |
-| NEWBIE     | [Social Proof Section](#social-proof-section)                                             |
-| NEWBIE     | [Article Preview Component](#article-preview-component)                                   |
-| NEWBIE     | [Four Card Feature Section](#four-card-feature-section)                                   |
-| NEWBIE     | [Base Apparel Coming Soon](#base-apparel-coming-soon)                                     |
-| NEWBIE     | [Intro Component With Signup Form](#intro-component-with-signup-form)                     |
-| NEWBIE     | [Single Price Grid Component](#single-price-grid-component)                               |
-| NEWBIE     | [Ping Coming Soon Page](#ping-coming-soon-page)                                           |
-| NEWBIE     | [Huddle Landing Page](#huddle-landing-page)                                               |
-| NEWBIE     | [QR Code Generator](#qr-code-generator)                                                   |
-|            |                                                                                           |
-| JUNIOR     | [Advice Generator App](#advice-generator-app)                                             |
-| JUNIOR     | [NFT Preview Card Generator](#nft-preview-card-generator)                                 |
-| JUNIOR     | [Time Tracking Dashboard](#time-tracking-dashboard)                                       |
-| JUNIOR     | [Tip Calculator App](#tip-calculator-app)                                                 |
-| JUNIOR     | [Sunnyside Agency Landing Page](#sunnyside-agency-landing-page)                           |
-| JUNIOR     | [Blogr Landing Page](#blogr-landing-page)                                                 |
-| JUNIOR     | [Crowdfunding Product Page](#crowdfunding-product-page)                                   |
-| JUNIOR     | [Interactive Pricing Component](#interactive-pricing-component)                           |
-| JUNIOR     | [Loopstudios Landing Page](#loopstudios-landing-page)                                     |
-| JUNIOR     | [Testimonials Grid Section](#testimonials-grid-section)                                   |
-| JUNIOR     | [Fylo Data Storage Component](#fylo-data-storage-component)                               |
-| JUNIOR     | [Coding Bootcamp Testimonials Slider](#coding-bootcamp-testimonials-slider)               |
-| JUNIOR     | [Social Media Dashboard with Theme Switcher](#social-media-dashboard-with-theme-switcher) |
-| JUNIOR     | [Insure Landing Page](#insure-landing-page)                                               |
-| JUNIOR     | [Pricing Component with Toggle](#pricing-component-with-toggle)                           |
-| JUNIOR     | [Project Tracking Intro Component](#project-tracking-intro-component)                     |
-| JUNIOR     | [Clipboard Landing Page](#clipboard-landing-page)                                         |
-| JUNIOR     | [Huddle Landing Page with Blocks](#huddle-landing-page-with-blocks)                       |
-| JUNIOR     | [Fylo Dark Theme Landing Page](#fylo-dark-theme-landing-page)                             |
-| JUNIOR     | [Fylo Landing Page](#fylo-landing-page)                                                   |
-| JUNIOR     | [Huddle Landing Page with Curves](#huddle-landing-page-with-curves)                       |
+| Difficulty   | Table of Contents                                                                         |
+| ------------ | ----------------------------------------------------------------------------------------- |
+| NEWBIE       | [Order Summary Component](#order-summary-component)                                       |
+| NEWBIE       | [3 Column Preview Card Component](#column-preview-card-component)                         |
+| NEWBIE       | [Profile Card Component](#profile-card-component)                                         |
+| NEWBIE       | [FAQ Accordion Card](#faq-accordion-card)                                                 |
+| NEWBIE       | [Stats Preview Card Component](#stats-preview-card-component)                             |
+| NEWBIE       | [Social Proof Section](#social-proof-section)                                             |
+| NEWBIE       | [Article Preview Component](#article-preview-component)                                   |
+| NEWBIE       | [Four Card Feature Section](#four-card-feature-section)                                   |
+| NEWBIE       | [Base Apparel Coming Soon](#base-apparel-coming-soon)                                     |
+| NEWBIE       | [Intro Component With Signup Form](#intro-component-with-signup-form)                     |
+| NEWBIE       | [Single Price Grid Component](#single-price-grid-component)                               |
+| NEWBIE       | [Ping Coming Soon Page](#ping-coming-soon-page)                                           |
+| NEWBIE       | [Huddle Landing Page](#huddle-landing-page)                                               |
+| NEWBIE       | [QR Code Generator](#qr-code-generator)                                                   |
+| NEWBIE       | [Interactive Rating Component](#interactive-rating-component)                             |
+|              |                                                                                           |
+| JUNIOR       | [Advice Generator App](#advice-generator-app)                                             |
+| JUNIOR       | [NFT Preview Card Generator](#nft-preview-card-generator)                                 |
+| JUNIOR       | [Time Tracking Dashboard](#time-tracking-dashboard)                                       |
+| JUNIOR       | [Tip Calculator App](#tip-calculator-app)                                                 |
+| JUNIOR       | [Sunnyside Agency Landing Page](#sunnyside-agency-landing-page)                           |
+| JUNIOR       | [Blogr Landing Page](#blogr-landing-page)                                                 |
+| JUNIOR       | [Crowdfunding Product Page](#crowdfunding-product-page)                                   |
+| JUNIOR       | [Interactive Pricing Component](#interactive-pricing-component)                           |
+| JUNIOR       | [Loopstudios Landing Page](#loopstudios-landing-page)                                     |
+| JUNIOR       | [Testimonials Grid Section](#testimonials-grid-section)                                   |
+| JUNIOR       | [Fylo Data Storage Component](#fylo-data-storage-component)                               |
+| JUNIOR       | [Coding Bootcamp Testimonials Slider](#coding-bootcamp-testimonials-slider)               |
+| JUNIOR       | [Social Media Dashboard with Theme Switcher](#social-media-dashboard-with-theme-switcher) |
+| JUNIOR       | [Insure Landing Page](#insure-landing-page)                                               |
+| JUNIOR       | [Pricing Component with Toggle](#pricing-component-with-toggle)                           |
+| JUNIOR       | [Project Tracking Intro Component](#project-tracking-intro-component)                     |
+| JUNIOR       | [Clipboard Landing Page](#clipboard-landing-page)                                         |
+| JUNIOR       | [Huddle Landing Page with Blocks](#huddle-landing-page-with-blocks)                       |
+| JUNIOR       | [Fylo Dark Theme Landing Page](#fylo-dark-theme-landing-page)                             |
+| JUNIOR       | [Fylo Landing Page](#fylo-landing-page)                                                   |
+| JUNIOR       | [Huddle Landing Page with Curves](#huddle-landing-page-with-curves)                       |
+|              |                                                                                           |
+| INTERMEDIATE | [E-Commerce Product Page](#ecommerce-product-page)                                        |
+| INTERMEDIATE | [Calculator App](#calculator-app)                                                         |
+| INTERMEDIATE | [Todo App](#todo-app)                                                                     |
+| INTERMEDIATE | [Markdown Notes App](#markdown-notes-app)                                                 |
 
 ---
 
@@ -158,6 +164,14 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/qr-code-generator/](https://kens-visuals.github.io/qr-code-generator/)
 - Repository URL: [https://github.com/kens-visuals/qr-code-generator](https://github.com/kens-visuals/qr-code-generator)
 - Solution URL: [https://www.frontendmentor.io/solutions/qr-code-generator-with-react-and-material-ui-XpZA7o_Ke](https://www.frontendmentor.io/solutions/qr-code-generator-with-react-and-material-ui-XpZA7o_Ke)
+
+## Interactive Rating Component
+
+![screenshot](./screenshots/interactive-rating-component-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/interactive-rating-component/](https://kens-visuals.github.io/interactive-rating-component/)
+- Repository URL: [https://github.com/kens-visuals/interactive-rating-component](https://github.com/kens-visuals/interactive-rating-component)
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-solution-built-with-react-and-tailwindcss-B19iTMpG9](https://www.frontendmentor.io/solutions/interactive-rating-component-solution-built-with-react-and-tailwindcss-B19iTMpG9)
 
 ---
 
@@ -330,3 +344,39 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Live Site URL: [https://kens-visuals.github.io/huddle-landing-page-with-curves/](https://kens-visuals.github.io/huddle-landing-page-with-curves/)
 - Repository URL: [https://github.com/kens-visuals/huddle-landing-page-with-curves](https://github.com/kens-visuals/huddle-landing-page-with-curves)
 - Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-curves-built-with-vanilla-js-scss-and-bem-AUV7QIWYs](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curves-built-with-vanilla-js-scss-and-bem-AUV7QIWYs)
+
+---
+
+## INTERMEDIATE
+
+## E-Commerce Product Page
+
+![screenshot](./screenshots/ecommerce-product-page-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/ecommerce-product-page/](https://kens-visuals.github.io/ecommerce-product-page/)
+- Repository URL: [https://github.com/kens-visuals/ecommerce-product-page](https://github.com/kens-visuals/ecommerce-product-page)
+- Solution URL: [https://www.frontendmentor.io/solutions/ecommerce-product-page-built-w-react-and-tailwind-css-Ska7C_9N9](https://www.frontendmentor.io/solutions/ecommerce-product-page-built-w-react-and-tailwind-css-Ska7C_9N9)
+
+## Calculator App
+
+![screenshot](./screenshots/calculator-app-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/calculator-app/](https://kens-visuals.github.io/calculator-app/)
+- Repository URL: [https://github.com/kens-visuals/calculator-app](https://github.com/kens-visuals/calculator-app)
+- Solution URL: [https://www.frontendmentor.io/solutions/calculator-app-built-with-react-and-tailwindcss-S1tYTCe85](https://www.frontendmentor.io/solutions/calculator-app-built-with-react-and-tailwindcss-S1tYTCe85)
+
+## Todo App
+
+![screenshot](./screenshots/todo-app-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/todo-app/](https://kens-visuals.github.io/todo-app/)
+- Repository URL: [https://github.com/kens-visuals/todo-app](https://github.com/kens-visuals/todo-app)
+- Solution URL: [https://www.frontendmentor.io/solutions/todo-app-built-with-react-and-tailwind-css-rJrsKyJPc](https://www.frontendmentor.io/solutions/todo-app-built-with-react-and-tailwind-css-rJrsKyJPc)
+
+## Markdown Notes App
+
+![screenshot](./screenshots/markdown-notes-app-screenshot.png)
+
+- Live Site URL: [https://markdown-notes-app-delta.vercel.app/](https://markdown-notes-app-delta.vercel.app/)
+- Repository URL: [https://github.com/kens-visuals/markdown-notes-app](https://github.com/kens-visuals/markdown-notes-app)
+- Solution URL: [https://www.frontendmentor.io/solutions/markdown-editor-app-built-with-nextjs-tailwindcss-and-firebase-N-SvSRipHi](https://www.frontendmentor.io/solutions/markdown-editor-app-built-with-nextjs-tailwindcss-and-firebase-N-SvSRipHi)
