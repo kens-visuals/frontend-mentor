@@ -44,7 +44,7 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | JUNIOR       | [Fylo Landing Page](#fylo-landing-page)                                                   |
 | JUNIOR       | [Huddle Landing Page with Curves](#huddle-landing-page-with-curves)                       |
 |              |                                                                                           |
-| INTERMEDIATE | [E-Commerce Product Page](#ecommerce-product-page)                                        |
+| INTERMEDIATE | [E-Commerce Product Page](#e-commerce-product-page)                                       |
 | INTERMEDIATE | [Calculator App](#calculator-app)                                                         |
 | INTERMEDIATE | [Todo App](#todo-app)                                                                     |
 | INTERMEDIATE | [Markdown Notes App](#markdown-notes-app)                                                 |
