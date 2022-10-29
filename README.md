@@ -4,8 +4,8 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 
 > Programming is like any other sport. You might know the rules, but you have to play to learn. -- Mark Zuckerberg
 
-| Difficulty | Table of Contents |
-| --- | --- |
+| Table of Contents |
+| --- |
 | [Order Summary Component](#order-summary-component) |
 | [3 Column Preview Card Component](#column-preview-card-component) |
 | [Profile Card Component](#profile-card-component) |
@@ -50,8 +50,6 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 | [Markdown Notes App](#markdown-notes-app) |
 
 ---
-
-# NEWBIE
 
 ## Order Summary Component
 
@@ -174,8 +172,6 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-solution-built-with-react-and-tailwindcss-B19iTMpG9](https://www.frontendmentor.io/solutions/interactive-rating-component-solution-built-with-react-and-tailwindcss-B19iTMpG9)
 
 ---
-
-## JUNIOR
 
 ## Advice Generator App
 
@@ -346,8 +342,6 @@ I've challenged myself to a **30-DAY-CSS-CHALLENGE,** and what other way than us
 - Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-curves-built-with-vanilla-js-scss-and-bem-AUV7QIWYs](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curves-built-with-vanilla-js-scss-and-bem-AUV7QIWYs)
 
 ---
-
-## INTERMEDIATE
 
 ## E-Commerce Product Page
 
